@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Don't be shy.
 permalink: /about/
 ---
 
