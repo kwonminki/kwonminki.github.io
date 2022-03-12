@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### For now
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+연세대학교 인공지능대학원 석사과정입니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+연구/학문적인 연락
+[kwonmingi@yonsei.ac.kr](mailto:kwonmingi@yonsei.ac.kr)
+
+기타여러사항
+[olleh401@naver.com](mailto:olleh401@naver.com)
+
+If you want to email in English,
+[olleh401@gmail.com](mailto:olleh401@gmail.com)
