@@ -118,5 +118,5 @@ Adobe에서 6개월간 인턴 경험이 있다. 미국 실리콘밸리에서 6�
 Cinelingo
 
 <div class="date">
-  Written on March 13, 2022
+  Written on March 13, 2022 / Updated Feb 11, 2024
 </div>
